@@ -12,3 +12,8 @@ Dichas soluciones en C corresponden a una [versión anterior del cuaderno](http:
 
 ## Otros materiales
 
+Antiguo libro de [Programación con Delphi](http://www.xtec.cat/~acastan/textos/PV_Delphi.pdf). Seguramente puedas utilizar [Lazarus](https://www.lazarus-ide.org/) para practicar.
+
+[Ejemplos de programación orientada a objetos en Java](http://www.xtec.cat/~acastan/textos/POO_Soluciones_Java.tar.bz2)
+
+[Resumen de Java para programadores de C y C++](http://www.xtec.cat/~acastan/textos/Java.pdf)

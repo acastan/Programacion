@@ -1,5 +1,7 @@
 # Programación
 
+tags: #AsixMp03 #AsirMp03 #DamMp03 #DawMp03 #SmxMp14
+
 ## Cuadernos de ejercicios de programación
 
 Comparto mi cuaderno de [ejercicios de programación básica](http://www.xtec.cat/~acastan/textos/PB_Practicas_Python.pdf)

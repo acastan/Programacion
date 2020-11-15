@@ -76,7 +76,7 @@ Els passos són:
 
 ---
 
-## Ha funcionat a casa: paquests Minetest i PyCraft per Linux des dels repositoris
+## Ha funcionat a casa: paquets Minetest i PyCraft per Linux des dels repositoris
 
 Cal instal·lar programari, i no tenim permisos, però a casa m'ha funcionat bé Minetest amb el mòdul Pycraft, que és una opció gratuïta i també més senzilla que Minecraft amb RaspberryJuice.
 

@@ -1,4 +1,4 @@
-﻿# Com programar Minecraft amb Python
+# Com programar Minecraft amb Python
 
 De les proves que havia fet fins ara per intentar programar amb Python sobre el Minecraft al nostre institut, les coses que no han funcionat són:
 

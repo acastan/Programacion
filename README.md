@@ -12,14 +12,16 @@ Dichas soluciones en C corresponden a una [versión anterior del cuaderno](http:
 
 ## Otros materiales
 
-Un antiguo libro de [Programación con Delphi](http://www.xtec.cat/~acastan/textos/PV_Delphi.pdf). Seguramente puedas utilizar [Lazarus](https://www.lazarus-ide.org/) para practicar.
+ * Un antiguo libro de [Programación con Delphi](http://www.xtec.cat/~acastan/textos/PV_Delphi.pdf). Seguramente puedas utilizar [Lazarus](https://www.lazarus-ide.org/) para practicar.
 
-[Resumen de Java para programadores de C y C++](http://www.xtec.cat/~acastan/textos/Java.pdf)
+ * Un [resumen de Java para programadores de C y C++](http://www.xtec.cat/~acastan/textos/Java.pdf)
 
-[Ejemplos de programación orientada a objetos en Java](http://www.xtec.cat/~acastan/textos/POO_Soluciones_Java.tar.bz2)
+ * Unos [ejemplos de programación orientada a objetos en Java](http://www.xtec.cat/~acastan/textos/POO_Soluciones_Java.tar.bz2)
 
-[Programando Arduino y el GPIO de Raspberry PI](http://www.xtec.cat/~acastan/textos/PB_Arduino_Raspberry.pdf)
+ * [Programando Arduino y el GPIO de Raspberry PI](http://www.xtec.cat/~acastan/textos/PB_Arduino_Raspberry.pdf)
 
-[Autoaprender a programar de manera divertida](motivar.md)
+ * [Aprender a programar por ti mismo de manera divertida](motivar.md)
 
-[Programar Minecraft con Python](minecraft.md)
+ * [Programar Minecraft con Python](minecraft.md)
+
+ * Unos [ejercicios para practicar iteraciones con Python y Minecraft](), y sus [soluciones]()

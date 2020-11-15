@@ -46,7 +46,7 @@
     Durant 60 segons, allà o el personatge senyali un lloc amb un cop, deixa un meló.
 
 02. Escales:  
-    Construeix unes senzilles escales de 10 blocs allà on és el jugador.
+    Construeix unes senzilles escales de 10 blocs allà on és el jugador.  
     Un cop fet, T'atreviries a construir unes escales en espiral? Pista: usa el argument addicional de la funció setBlock() :  0:Est   1:Oest   2:Sud   3:Nord
 
 03. Columnes:  

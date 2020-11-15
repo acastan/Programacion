@@ -10,7 +10,7 @@ Comparto también las [soluciones a los ejercicios en Python](http://www.xtec.ca
 
 ## Otros materiales que comparto
 
- * Un antiguo libro de [Programación con Delphi](http://www.xtec.cat/~acastan/textos/PV_Delphi.pdf). Seguramente puedas utilizar [Lazarus](https://www.lazarus-ide.org/) para practicar.
+ * Un antiguo libro de [Programación con Delphi](http://www.xtec.cat/~acastan/textos/PV_Delphi.pdf). Puedes utilizar [Lazarus](https://www.lazarus-ide.org/) para practicar.
 
  * Un resumen de [Java para programadores de C y C++](http://www.xtec.cat/~acastan/textos/Java.pdf)
 

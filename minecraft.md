@@ -1,4 +1,4 @@
-﻿# Com programar Minecraft amb Python al nostre institut
+﻿# Com programar Minecraft amb Python
 
 De les proves que havia fet fins ara per intentar programar amb Python sobre el Minecraft al nostre institut, les coses que no han funcionat són:
 
@@ -76,7 +76,7 @@ Els passos són:
 
 ---
 
-## Crec que funcionarà bé i fàcil: paquests Minetest i PyCraft per Linux des dels repositoris
+## Ha funcionat a casa: paquests Minetest i PyCraft per Linux des dels repositoris
 
 Cal instal·lar programari, i no tenim permisos, però a casa m'ha funcionat bé Minetest amb el mòdul Pycraft, que és una opció gratuïta i també més senzilla que Minecraft amb RaspberryJuice.
 
@@ -240,7 +240,7 @@ Els passos són:
 
 ---
 
-## EXEMPLE
+## EXEMPLES
 
 ```python
 from mcpi.minecraft import Minecraft

@@ -100,7 +100,7 @@ Els passos són:
     
      (Hagués estat millor no tocar l'opció secure.enable_security, i en canvi donar el valor pycraft a l'opció secure.trusted_mods, però a mi no m'ha funcionat).
     
-     Prem <esc>, torna a la pestanya "Start Game" i clica el botó "Jugar Joc".
+     Prem la tecla ESC, torna a la pestanya "Start Game" i clica el botó "Jugar Joc".
     
      Els canvis han quedat guardats (joc creat, mòdul pycraft activat, i seguretat dels mòduls inhabilitada) i no caldrà que els proper cops que vulguis obrir el joc repeteixis tots els passos anteriors.
 

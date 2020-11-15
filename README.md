@@ -1,6 +1,6 @@
 # Programación
 
-tags: #AsixMp03 #AsirMp03 #DamMp03 #DawMp03 #SmxMp14
+tags: #FpInfor #AsixMp03 #AsirMp03 #DamMp03 #DawMp03 #SmxMp14
 
 ## Cuadernos de ejercicios de programación
 

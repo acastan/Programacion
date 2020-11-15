@@ -18,13 +18,14 @@
     
     Què hauries de canviar per que la maledicció duri el mateix (30 segons) però cada mig segon converteixi allà on és el personatge en aigua?
 
-04. Xat:  
+04. **Xat**
+
     Demana missatges per terminal i imprimeix-los al xat del joc, fins llegir el missatge 'exit'.
 
-05. Alçada i profunditat rècord:  
+05. **Alçada i profunditat rècord**  
     A mesura que el jugador es mou, calcula si sobrepassa l'alçada mínima i màxima, i si és així escriu-les al xat.
 
-06. Competició de busseig:  
+06. **Competició de busseig**  
     Compta quants segons el jugador aguanta sota l'aigua. Si aguanta més de sis segons posa un sostre de flors sobre seu.
 
 07. Pista de ball:  

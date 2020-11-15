@@ -10,7 +10,7 @@ Comparto también las [soluciones a los ejercicios en Python](http://www.xtec.ca
 
  * Un antiguo libro de [Programación con Delphi](http://www.xtec.cat/~acastan/textos/PV_Delphi.pdf). Seguramente puedas utilizar [Lazarus](https://www.lazarus-ide.org/) para practicar.
 
- * Un [resumen de Java para programadores de C y C++](http://www.xtec.cat/~acastan/textos/Java.pdf)
+ * Un resumen de [Java para programadores de C y C++](http://www.xtec.cat/~acastan/textos/Java.pdf)
 
  * Unos [ejemplos de programación orientada a objetos en Java](http://www.xtec.cat/~acastan/textos/POO_Soluciones_Java.tar.bz2)
 

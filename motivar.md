@@ -1,4 +1,4 @@
-AUTOAPRENDIZAJE DIVERTIDO
+Autoaprendizaje Divertido
 =========================
 
 Recursos para aprender a programar de manera autónoma y lúdica.
@@ -10,7 +10,7 @@ Te será útil interactuar con este [currículum](https://curriculum.raspberrypi
 
 
 
-HORA DE CÓDIGO
+Hora de Código
 --------------
 
  * [code.org](https://code.org/learn)
@@ -19,7 +19,7 @@ HORA DE CÓDIGO
 
 
 
-SCRATCH
+Scratch
 -------
 
  * [Tutorial de ScratchCatalà](https://www.scratchcatala.com/que-es-scratch/tutorial-scratch/)
@@ -30,7 +30,7 @@ SCRATCH
 
 
 
-APP INVENTOR
+App Inventor
 ------------
 
  * [Curso para 4º ESO en catalán](http://alexandria.xtec.cat/course/view.php?id=679) y [en inglés](http://alexandria.xtec.cat/course/view.php?id=753): 99 horas y 17 temas donde entra diseño app + programación app + monetitzación. Sólo nos interesan los temas 3, 9, 10 y 16
@@ -41,7 +41,7 @@ APP INVENTOR
 
 
 
-ARDUINO
+Arduino
 -------
 
  * <https://playground.arduino.cc/Main/SketchList#Games>
@@ -52,7 +52,7 @@ ARDUINO
 
 
 
-PYTHON
+Python
 ------
 
  * Python + [Turtle](https://docs.python.org/3/library/turtle.html):

@@ -14,10 +14,10 @@ Comparto también las [soluciones a los ejercicios en Python](http://www.xtec.ca
 
  * Unos [ejemplos de programación orientada a objetos en Java](http://www.xtec.cat/~acastan/textos/POO_Soluciones_Java.tar.bz2)
 
- * [Programando Arduino y el GPIO de Raspberry PI](http://www.xtec.cat/~acastan/textos/PB_Arduino_Raspberry.pdf)
+ * Unas explicaciones sobre [programar Arduino y el GPIO de Raspberry PI](http://www.xtec.cat/~acastan/textos/PB_Arduino_Raspberry.pdf)
 
- * [Aprender a programar por ti mismo de manera divertida](motivar.md)
+ * Unos enlaces para [aprender a programar por ti mismo de manera divertida](motivar.md)
 
- * [Programar Minecraft con Python](minecraft.md)
+ * Unas recetas para poder [programar Minecraft con Python](minecraft.md)
 
  * Unos [ejercicios para practicar iteraciones con Python y Minecraft](), y sus [soluciones]()

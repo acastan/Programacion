@@ -1,5 +1,17 @@
-HORA DE CODI
-------------
+AUTOAPRENDIZAJE DIVERTIDO
+=========================
+
+Recursos para aprender a programar de manera autónoma y lúdica.
+
+Te será útil interactuar con este [currículum](https://curriculum.raspberrypi.org/).
+
+
+
+
+
+
+HORA DE CÓDIGO
+--------------
 
  * [code.org](https://code.org/learn)
 
@@ -10,33 +22,27 @@ HORA DE CODI
 SCRATCH
 -------
 
- * [Tutorial d'ScratchCatalà](https://www.scratchcatala.com/que-es-scratch/tutorial-scratch/)
+ * [Tutorial de ScratchCatalà](https://www.scratchcatala.com/que-es-scratch/tutorial-scratch/)
 
- * [Tutorials del MIT](https://scratch.mit.edu/studios/1817151/)
+ * [Tutoriales del MIT](https://scratch.mit.edu/studios/1817151/)
 
- * [Tutorials d'Scratch School](https://www.scratch.school/)
+ * [Tutoriales de Scratch School](https://www.scratch.school/)
 
 
 
 APP INVENTOR
 ------------
 
- * 99 hores i 17 temes on entren disseny app + programació app + monetització. Només ens interessen tema 3, 9, 10 i 16
+ * [Curso para 4º ESO en catalán](http://alexandria.xtec.cat/course/view.php?id=679) y [en inglés](http://alexandria.xtec.cat/course/view.php?id=753): 99 horas y 17 temas donde entra diseño app + programación app + monetitzación. Sólo nos interesan los temas 3, 9, 10 y 16
 
-   [Curs per 4art ESO en català](http://alexandria.xtec.cat/course/view.php?id=679)
+ * [Curso para CFGM en catalán](http://alexandria.xtec.cat/course/view.php?id=584): 20 horas AppInventor + 20 horas PhoneGap
 
-   [Curs per 4art ESO en anglès](http://alexandria.xtec.cat/course/view.php?id=753)
-
- * 20 hores AppInventor + 20 hores PhoneGap
-
-   [Curs per CFGM](http://alexandria.xtec.cat/course/view.php?id=584)
-
- * [Tutorials al MIT](https://appinventor.mit.edu/explore/ai2/tutorials)
+ * [Tutoriales del MIT](https://appinventor.mit.edu/explore/ai2/tutorials)
 
 
 
-RASPBERRY i ARDUINO
--------------------
+ARDUINO
+-------
 
  * <https://playground.arduino.cc/Main/SketchList#Games>
 
@@ -49,29 +55,68 @@ RASPBERRY i ARDUINO
 PYTHON
 ------
 
- * Python + Minecraft
+ * Python + [Turtle](https://docs.python.org/3/library/turtle.html):
 
- * Python + Blender
+   - <https://www.mclibre.org/consultar/python/lecciones/python-turtle-1.html>
 
- * Python + PyGame
+ * Python + [Blender](https://www.blender.org/):
 
- * Python + Raspberry Pi GPIO
+   - <https://docs.blender.org/manual/en/latest/advanced/scripting/introduction.html>
 
- * Python + RoboCode
- 
- * Python + Turtle Graphics
+ * Python + [RoboCode](https://robocode.sourceforge.io/)
 
- * [_temp_ Jocs cónsola Python](https://github.com/asweigart/PythonStdioGames/tree/master/src)
+   - <https://github.com/turkishviking/Python-Robocode>
 
+ * (temp) Python + Juegos en terminal:
 
+   - <https://github.com/asweigart/PythonStdioGames/>
 
-TEMP
-----
+ * Python + [PyGame](https://www.pygame.org/):
 
- * <https://www.minecraft.net/en-us/edition/pi/>
+   - <https://www.raspberrypi.org/magpi-issues/Essentials_Games_v1.pdf>
 
- * <https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/2>
+ * Python + [Minecraft](https://minecraft.gamepedia.com/Minecraft_Wiki):
 
- * <https://curriculum.raspberrypi.org/>
+   - <https://www.raspberrypi.org/magpi-issues/Essentials_Minecraft_v1.pdf>
 
+   - <https://github.com/martinohanlon/mcpi>
 
+   - <https://www.stuffaboutcode.com/p/minecraft-api-reference.html>
+
+ * Python + Raspberry Pi [GPIO](https://www.raspberrypi.org/documentation/usage/gpio/):
+
+   - <https://www.raspberrypi.org/magpi-issues/Essentials_GPIOZero_v1.pdf>
+
+   - <https://realpython.com/python-raspberry-pi/>
+
+   - <https://gpiozero.readthedocs.io/en/stable/recipes.html>
+
+ * Python + Aplicaciones con interfaz gráfica ([Tkinter](https://docs.python.org/3/library/tkinter.html), [PyQt](https://riverbankcomputing.com/software/pyqt/intro), [wxPython](https://www.wxpython.org/), [PySimpleGUI](https://pysimplegui.readthedocs.io/), ...):
+
+   - <https://realpython.com/learning-paths/python-gui-programming/>
+
+ * Python + Sistemas y Ciberseguridad: mil y una librerías ...
+
+   - [Scapy](https://scapy.net/) para crear paquetes TCP/IP
+
+   - [shodan](https://shodan.readthedocs.io/) para interactuar con el buscador Shodan
+
+   - [smtplib](https://docs.python.org/3/library/smtplib.html) para enviar correo
+
+   - [Fabric](http://www.fabfile.org/) para automatizar tareas de administración
+
+   - [dnspython](https://www.dnspython.org/) para consultas DNS
+
+   - [python-whois](https://github.com/richardpenman/whois) para consultas WHOIS
+
+   - [PyPDF4](https://github.com/claird/PyPDF4) para procesar o crear pdf
+
+   - [ipaddress](https://docs.python.org/3/library/ipaddress.html) para cálculos de subnetting
+
+   - [pyHook](https://sourceforge.net/projects/pyhook/) para crear keyloggers
+
+   - [psutil](https://psutil.readthedocs.io/), [subprocess](https://docs.python.org/3/library/subprocess.html), [os](https://docs.python.org/3/library/os.html) y [sys](https://docs.python.org/3/library/sys.html) para interactuar con procesos y el sistema
+
+   - [shutil](https://docs.python.org/3/library/shutil.html) para manipular ficheros a nivel de directorio
+
+   - etc.

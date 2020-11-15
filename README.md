@@ -14,9 +14,12 @@ Dichas soluciones en C corresponden a una [versión anterior del cuaderno](http:
 
 Un antiguo libro de [Programación con Delphi](http://www.xtec.cat/~acastan/textos/PV_Delphi.pdf). Seguramente puedas utilizar [Lazarus](https://www.lazarus-ide.org/) para practicar.
 
-[Ejemplos de programación orientada a objetos en Java](http://www.xtec.cat/~acastan/textos/POO_Soluciones_Java.tar.bz2)
-
 [Resumen de Java para programadores de C y C++](http://www.xtec.cat/~acastan/textos/Java.pdf)
+
+[Ejemplos de programación orientada a objetos en Java](http://www.xtec.cat/~acastan/textos/POO_Soluciones_Java.tar.bz2)
 
 [Programando Arduino y el GPIO de Raspberry PI](http://www.xtec.cat/~acastan/textos/PB_Arduino_Raspberry.pdf)
 
+[Autoaprender a programar de manera divertida](motivar.md)
+
+[Programar Minecraft con Python](minecraft.md)

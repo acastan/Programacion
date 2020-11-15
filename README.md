@@ -14,7 +14,7 @@ Comparto también las [soluciones a los ejercicios en Python](http://www.xtec.ca
 
  * Un resumen de [Java para programadores de C y C++](http://www.xtec.cat/~acastan/textos/Java.pdf)
 
- * Unos [ejemplos de programación orientada a objetos en Java](http://www.xtec.cat/~acastan/textos/POO_Soluciones_Java.tar.bz2)
+ * Código de [ejemplos de programación orientada a objetos en Java](http://www.xtec.cat/~acastan/textos/POO_Soluciones_Java.tar.bz2)
 
  * Una introducción para [programar Arduino y el GPIO de Raspberry PI](http://www.xtec.cat/~acastan/textos/PB_Arduino_Raspberry.pdf)
 

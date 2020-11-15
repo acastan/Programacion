@@ -1,20 +1,21 @@
-# Exercicis de WHILE i FOR amb Minecraft
-
-## SMX-M14: Introducció a la programació
-## UF1. Introducció a la programació amb Python
+# Exercicis d'iteracions amb Minecraft i Python
 
 
 
-## A3. Control del flux d’execució amb la instrucció WHILE
+## Control del flux d’execució amb la instrucció WHILE
 
-01. Tele-transportació a l'atzar:  
+01. **Tele-transportació a l'atzar**
+
     Durant 5 vegades, cada 10 segons, tele-transporta el jugador a un lloc aleatori.
 
-02. Maledicció del rei Midas:  
+02. **Maledicció del rei Midas**
+
     Allà per on camini el personatge, si no es aigua ni aire, es convertirà en or.
 
-03. Maledicció de l'aigua:  
-    Durant 30 segons, allà per on camini el personatge es convertirà en aigua.  
+03. **Maledicció de l'aigua**
+
+    Durant 30 segons, allà per on camini el personatge es convertirà en aigua.
+    
     Què hauries de canviar per que la maledicció duri el mateix (30 segons) però cada mig segon converteixi allà on és el personatge en aigua?
 
 04. Xat:  
@@ -40,7 +41,7 @@
 
 
 
-## A4. Control del flux d’execució amb la instrucció FOR
+## Control del flux d’execució amb la instrucció FOR
 
 01. Vareta màgica:  
     Durant 60 segons, allà o el personatge senyali un lloc amb un cop, deixa un meló.

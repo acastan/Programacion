@@ -22,4 +22,4 @@ Comparto también las [soluciones a los ejercicios en Python](http://www.xtec.ca
 
  * La receta para poder [programar Minecraft con Python](minecraft.md)
 
- * Unos [ejercicios para practicar iteraciones con Python y Minecraft](), y sus [soluciones]()
+ * Unos [ejercicios para practicar iteraciones con Python y Minecraft](minecraft_bucles.md), y sus [soluciones](minecraft_bucles.tar.bz2)

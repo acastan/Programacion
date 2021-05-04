@@ -75,6 +75,10 @@ Python
 
    - <https://www.raspberrypi.org/magpi-issues/Essentials_Games_v1.pdf>
 
+ * Python + [Arcade](https://arcade.academy/):
+
+   - <https://realpython.com/platformer-python-arcade/>
+
  * Python + [Minecraft](https://minecraft.gamepedia.com/Minecraft_Wiki):
 
    - <https://www.raspberrypi.org/magpi-issues/Essentials_Minecraft_v1.pdf>

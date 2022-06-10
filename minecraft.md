@@ -1,6 +1,6 @@
 # Com programar Minecraft amb Python
 
-De les proves que havia fet fins ara per intentar programar amb Python sobre el Minecraft al nostre institut, on tenim un Linux sense permísos per instal.ar programari, les coses que no han funcionat són:
+De les proves que havia fet fins ara per intentar programar amb Python sobre el Minecraft al nostre institut, on tenim Linux sense permísos per instal.ar programari, les coses que no han funcionat són:
 
 ---
 

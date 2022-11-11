@@ -10,12 +10,33 @@ Te será útil interactuar con este [currículum](https://curriculum.raspberrypi
 
 
 
-Hora de Código
---------------
+Plataformas en línea
+--------------------
 
  * [code.org](https://code.org/learn)
 
  * [hourofcode.com](https://hourofcode.com/)
+
+ * [Codecombat](https://codecombat.com/)
+
+ * [CodinGame](https://www.codingame.com/start)
+
+ * [CheckiO](https://py.checkio.org/)
+
+ * [Python Challenge](http://www.pythonchallenge.com/)
+
+ * [SQL Murder Mistery](https://mystery.knightlab.com/)
+
+ * [The SQL Schema Verse](https://schemaverse.com/)
+
+ * [Screeps (avanzado)](https://screeps.com/)
+
+
+
+Videojuegos de pago
+-------------------
+
+ * [en Steam](https://store.steampowered.com/tags/en/Programming/)
 
 
 

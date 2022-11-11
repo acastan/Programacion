@@ -36,14 +36,12 @@ Plataformas en línea
 Videojuegos de pago
 -------------------
 
- * [en Steam](https://store.steampowered.com/tags/en/Programming/)
+ * en [Steam](https://store.steampowered.com/tags/en/Programming/)
 
 
 
 Scratch
 -------
-
- * [Tutorial de ScratchCatalà](https://www.scratchcatala.com/que-es-scratch/tutorial-scratch/)
 
  * [Tutoriales del MIT](https://scratch.mit.edu/studios/1817151/)
 
@@ -68,8 +66,6 @@ Arduino
  * <https://playground.arduino.cc/Main/SketchList#Games>
 
  * <https://www.oxgadgets.com/2011/07/arduino-serial-communication.html>
-
- * <http://www.arduinoos.com/2010/05/serial-comm-ports-for-ever-and-ever/>
 
 
 
